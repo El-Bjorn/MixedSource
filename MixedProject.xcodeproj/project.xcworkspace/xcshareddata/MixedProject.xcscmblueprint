@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "10515706-0bd5-4c87-846d-1d378f9dbb81++6736",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "10515706-0bd5-4c87-846d-1d378f9dbb81++6736" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "10515706-0bd5-4c87-846d-1d378f9dbb81++6736" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "06A66ECF-3382-4E04-AA31-5394CB9449BE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "10515706-0bd5-4c87-846d-1d378f9dbb81++6736" : "devel\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MixedProject",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Treehouse\/MixedProject\/MixedProject.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/subversion.assembla.com\/svn\/built-light",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "10515706-0bd5-4c87-846d-1d378f9dbb81++6736"
+    }
+  ]
+}
